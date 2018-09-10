@@ -1,0 +1,7 @@
+C:\Python\GraphicsEditor\ConsoleUI\bin\Debug\ConsoleUI.dll.config
+C:\Python\GraphicsEditor\ConsoleUI\bin\Debug\ConsoleUI.dll
+C:\Python\GraphicsEditor\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Python\GraphicsEditor\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Python\GraphicsEditor\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Python\GraphicsEditor\ConsoleUI\obj\Debug\ConsoleUI.dll
+C:\Python\GraphicsEditor\ConsoleUI\obj\Debug\ConsoleUI.pdb

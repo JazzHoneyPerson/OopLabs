@@ -1,0 +1,12 @@
+C:\Python\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.exe.config
+C:\Python\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.exe
+C:\Python\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.pdb
+C:\Python\GraphicsEditor\GraphicsEditor\bin\Debug\ConsoleUI.dll
+C:\Python\GraphicsEditor\GraphicsEditor\bin\Debug\DrawablesUI.dll
+C:\Python\GraphicsEditor\GraphicsEditor\bin\Debug\ConsoleUI.pdb
+C:\Python\GraphicsEditor\GraphicsEditor\bin\Debug\ConsoleUI.dll.config
+C:\Python\GraphicsEditor\GraphicsEditor\bin\Debug\DrawablesUI.pdb
+C:\Python\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.csprojResolveAssemblyReference.cache
+C:\Python\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.csproj.CoreCompileInputs.cache
+C:\Python\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.exe
+C:\Python\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.pdb

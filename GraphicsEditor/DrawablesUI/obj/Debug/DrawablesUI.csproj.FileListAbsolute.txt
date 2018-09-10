@@ -1,0 +1,6 @@
+C:\Python\GraphicsEditor\DrawablesUI\bin\Debug\DrawablesUI.dll
+C:\Python\GraphicsEditor\DrawablesUI\bin\Debug\DrawablesUI.pdb
+C:\Python\GraphicsEditor\DrawablesUI\obj\Debug\DrawablesUI.csprojResolveAssemblyReference.cache
+C:\Python\GraphicsEditor\DrawablesUI\obj\Debug\DrawablesUI.csproj.CoreCompileInputs.cache
+C:\Python\GraphicsEditor\DrawablesUI\obj\Debug\DrawablesUI.dll
+C:\Python\GraphicsEditor\DrawablesUI\obj\Debug\DrawablesUI.pdb

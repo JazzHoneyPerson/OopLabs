@@ -1,0 +1,7 @@
+c:\users\имя\source\repos\ComparisonOfWorkOfAlgorithms\ComparisonOfWorkOfAlgorithms\bin\Debug\ComparisonOfWorkOfAlgorithms.exe.config
+c:\users\имя\source\repos\ComparisonOfWorkOfAlgorithms\ComparisonOfWorkOfAlgorithms\bin\Debug\ComparisonOfWorkOfAlgorithms.exe
+c:\users\имя\source\repos\ComparisonOfWorkOfAlgorithms\ComparisonOfWorkOfAlgorithms\bin\Debug\ComparisonOfWorkOfAlgorithms.pdb
+c:\users\имя\source\repos\ComparisonOfWorkOfAlgorithms\ComparisonOfWorkOfAlgorithms\obj\Debug\ComparisonOfWorkOfAlgorithms.csprojResolveAssemblyReference.cache
+c:\users\имя\source\repos\ComparisonOfWorkOfAlgorithms\ComparisonOfWorkOfAlgorithms\obj\Debug\ComparisonOfWorkOfAlgorithms.csproj.CoreCompileInputs.cache
+c:\users\имя\source\repos\ComparisonOfWorkOfAlgorithms\ComparisonOfWorkOfAlgorithms\obj\Debug\ComparisonOfWorkOfAlgorithms.exe
+c:\users\имя\source\repos\ComparisonOfWorkOfAlgorithms\ComparisonOfWorkOfAlgorithms\obj\Debug\ComparisonOfWorkOfAlgorithms.pdb
